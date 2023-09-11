@@ -16,7 +16,7 @@ The toDoApi is a simple To-Do List API built using ASP.NET Core framework. It pr
 
 ## Using the API
 ### Swagger UI
-The API is documented using Swagger. Once you run the project, you can navigate to http://localhost:7216/swagger/index.html to see the Swagger UI. Here, you can view and interact with the available endpoints of the API.
+The API is documented using Swagger. Once you run the project, you can navigate to https://localhost:7216/swagger/index.html to see the Swagger UI. Here, you can view and interact with the available endpoints of the API.
 
 ### Endpoints
 
